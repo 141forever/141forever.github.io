@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kedi Chen"
+title                    : "KoLa Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "1.png"
+  name             : "Kedi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master candidate from the School of Computer Science and Technology, East China Normal University"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "East China Normal University"
   uri              : # URL
   email            : "none@example.org" 
 
