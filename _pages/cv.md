@@ -23,25 +23,23 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder.[arxiv][github]
+  **Kedi Chen**, Jie Zhou, Qin Chen, Shunyu Liu, Liang He. In **Coling2024** (Long) 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Chines, English (CET6: 528)
+* Programming language: Python (mostly used), C++ (used in algorithmic competitions)
   
-Service and leadership
+Selected Awards
 ======
-* Currently signed in to 43 different slack teams
+* National Scholarship: 3rd year of undergraduate
+* ACM-ICPC Nanjing Regional Contest Bronze Medal in 2020 Winter
+
+Social Contribution
+=====
+* Assistant Reviewer of conferences: AAAI2022, PRCV2023, ARR2024
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for Artificial Intelligence Courses in 2023 Spring
