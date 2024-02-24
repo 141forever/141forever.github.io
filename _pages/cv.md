@@ -15,7 +15,7 @@ Education
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
 * High School - School Affiliated to Nanjing Normal University, 2014-2018
 
-Work experience
+Work Experience
 ======
 * March 2023: Shanghai Institute of Intelligent Education
   * Supervisor: LLM developer
@@ -34,7 +34,7 @@ Publications
   
 Skills
 ======
-* Language: Chines, English (CET6: 528)
+* Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
   
 Selected Awards
@@ -45,6 +45,7 @@ Selected Awards
 Social Contribution
 =====
 * assistant reviewer of conferences: AAAI2022, PRCV2023, ARR2024
+* President of the Military Enthusiasts Association of Soochow University from 2019 to 2020
 
 Teaching
 ======
