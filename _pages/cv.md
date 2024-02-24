@@ -24,13 +24,13 @@ Work experience
 Publications
 ======
 * A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [arxiv][github]
-  **Kedi Chen**, Jie Zhou, Qin Chen, Shunyu Liu, Liang He. In **COLING2024** (Long)
+  <br />**Kedi Chen**, Jie Zhou, Qin Chen, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [arxiv][github]
-  **Kedi Chen**, Qin Chen, Jie Zhou, Yishen He, Liang He. In **ARR2024** (Long,undereview)
+  <br />**Kedi Chen**, Qin Chen, Jie Zhou, Yishen He, Liang He. In **ARR2024** (Long,undereview)
 * Causal Intervention-based Prompt Debiasing for Event Argument Extraction. [arxiv][github]
-  Jiaju Lin, **Kedi Chen**, Qin Chen, Jie Zhou, Liang He. In **arxiv2023** (Long)
+  <br />Jiaju Lin, **Kedi Chen**, Qin Chen, Jie Zhou, Liang He. In **arxiv2023** (Long)
 * Recommendation Model Based on Heterogeneous Information Networks. 
-  **Kedi Chen**, Xinyi Chen, Kenan Shi, Lei Zhao. In **Computer System Applications (2022.8)**
+  <br />**Kedi Chen**, Xinyi Chen, Kenan Shi, Lei Zhao. In **Computer System Applications (2022.8)**
   
 Skills
 ======
