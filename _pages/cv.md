@@ -36,6 +36,7 @@ Skills
 ======
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
+* Deep Learning Framework: Pytorch, FastNLP
   
 Selected Awards
 ======
@@ -45,7 +46,7 @@ Selected Awards
 Social Contribution
 =====
 * assistant reviewer of conferences: AAAI2022, PRCV2023, ARR2024
-* President of the Military Enthusiasts Association of Soochow University from 2019 to 2020
+* president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
 
 Teaching
 ======
