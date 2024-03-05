@@ -23,7 +23,7 @@ Work Experience
 
 Publications
 ======
-* A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [arxiv](https://arxiv.org/abs/2403.00891) [github](https://github.com/141forever/TransferUIE)
+* A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [arxiv](https://arxiv.org/abs/2403.00896) [github](https://github.com/141forever/DiaHalu)
   <br />**Kedi Chen**, Qin Chen, Jie Zhou, Yishen He, Liang He. In **ARR2024** (Long,undereview)
