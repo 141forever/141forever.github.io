@@ -19,10 +19,10 @@ Work Experience
 ======
 * May 2024 till now: RedBook
   * Supervisor: a research-focused NLP intern in advertising algorithms
-  * Duties include: note title generation, note title review, and research for hallucination detection.
+  * Duties: note title generation, note title review, and research for hallucination detection
 * March 2023: Shanghai Institute of Intelligent Education
   * Supervisor: LLM developer
-  * Duties include: early-stage research on LLM development, including the expansion of the Chinese vocabulary
+  * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
 Publications
 ======
