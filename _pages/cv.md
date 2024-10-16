@@ -17,17 +17,20 @@ Education
 
 Work Experience
 ======
-* May 2024 till now: RedBook
+* October 2024 till now: Shanghai Artificial Intelligence Laboratory
+  * Supervisor: a a full-time research intern
+  * Duties: note title generation, note title review, note content generation and research for hallucination detection
+* May 2024 - October 2024: RedBook
   * Supervisor: a research-focused NLP intern in advertising algorithms
   * Duties: note title generation, note title review, note content generation and research for hallucination detection
-* March 2023: Shanghai Institute of Intelligent Education
+* March 2023 - April 2023: Shanghai Institute of Intelligent Education
   * Supervisor: LLM developer
   * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
 Publications
 ======
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
-  <br />**Kedi Chen**, Qin Chen, Jie Zhou, Yishen He, Liang He. In **EMNLP2024findings** (Long)
+  <br />**Kedi Chen**, Qin Chen, Jie Zhou, Yishen He, Liang He. In **EMNLP2024 findings** (Long)
 * A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * From Token to Passage: Semantic-enhanced Hallucination Detection via Multi-Granularity Uncertainty. 
