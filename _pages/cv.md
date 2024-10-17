@@ -39,6 +39,7 @@ Publications
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
 * Recommendation Model Based on Heterogeneous Information Networks. (In Chinese)
   <br />**Kedi Chen**, Lei Zhao†, Xinyi Chen, Kenan Shi. In **Computer System Applications (2022.8)**
+\*: equal contribution †: corresponding author
   
 Skills
 ======
