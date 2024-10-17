@@ -50,6 +50,8 @@ Selected Awards
 ======
 * National Scholarship: 3rd year of undergraduate
 * ACM-ICPC Nanjing Regional Contest Bronze Medal in 2020 Winter
+* National Gold Medal in the 2021 Team Programming Ladder Competition
+* National Third Prize in the 2021 Lanqiao Cup C++ Group A
 
 Social Contribution
 =====
