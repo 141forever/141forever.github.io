@@ -34,7 +34,7 @@ Publications
 * A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * From Token to Passage: Semantic-enhanced Hallucination Detection via Multi-Granularity Uncertainty. 
-  <br />**Kedi Chen***, Qin Chen*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long, under review)
+  <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long, under review)
 * Causal Intervention-based Prompt Debiasing for Event Argument Extraction. [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
 * Recommendation Model Based on Heterogeneous Information Networks. (In Chinese)
