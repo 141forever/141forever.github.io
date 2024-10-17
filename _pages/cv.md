@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * October 2024 till now: Shanghai Artificial Intelligence Laboratory
-  * Supervisor: a a full-time research intern
+  * Supervisor: a full-time research intern
   * Duties: 
 * May 2024 - October 2024: RedBook
   * Supervisor: a research-focused NLP intern in advertising algorithms
@@ -46,7 +46,7 @@ Skills
 ======
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
-* NLP domains: applications of LLMs, hallucination of LLMs, information extraction, knowledge graph
+* NLP domains: applications of LLMs, hallucination of LLMs, LLMs reasoning (code generation), information extraction (including sentiment analysis), knowledge graph
 * Deep Learning Framework: Pytorch, FastNLP
   
 Selected Awards
