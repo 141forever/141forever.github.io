@@ -58,7 +58,7 @@ Selected Awards
 
 Social Contribution
 =====
-* assistant reviewer of conferences: AAAI2022, PRCV2023, ARR2024
+* reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
