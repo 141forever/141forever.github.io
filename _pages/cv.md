@@ -46,8 +46,8 @@ Skills
 ======
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
-* NLP domains: applications of LLMs, hallucination of LLMs, LLMs reasoning (code generation), information extraction (including sentiment analysis), knowledge graph
-* Deep Learning Framework: Pytorch, FastNLP
+* NLP domains: applications of LLMs, hallucination of LLMs, math/code reasoning (synthetic data generation), information extraction (including sentiment analysis), knowledge graph
+* Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory
   
 Selected Awards
 ======
