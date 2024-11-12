@@ -18,13 +18,13 @@ Education
 Work Experience
 ======
 * October 2024 till now: Shanghai Artificial Intelligence Laboratory
-  * Supervisor: a full-time research intern
+  * Position: a full-time research intern
   * Duties: LLMs self-correction, code2code translation, math reasoning
 * May 2024 - October 2024: RedBook
-  * Supervisor: a research-focused NLP intern in advertising algorithms
+  * Position: a business-focused NLP intern in advertising algorithms
   * Duties: note title generation, note title review, note content generation and research for hallucination detection
 * March 2023 - April 2023: Shanghai Institute of Intelligent Education
-  * Supervisor: LLM developer
+  * Position: LLM developer
   * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
 Publications
