@@ -29,14 +29,16 @@ Work Experience
 
 Publications
 ======
+* From Token to Passage: Semantic-enhanced Hallucination Detection via Multi-Granularity Uncertainty. 
+  <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024 findings** (Long)
 * A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
-* From Token to Passage: Semantic-enhanced Hallucination Detection via Multi-Granularity Uncertainty. 
-  <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long, under review)
 * Game. 
-  <br />xxx, xxx, xxx, **Kedi Chen**\. In **NAACL2025** (short, under review)  
+  <br />xxx, xxx, xxx, **Kedi Chen**\. In **NAACL2025** (short, under review)
+* Hallucination. 
+  <br />xxx, xxx, xxx, **Kedi Chen**\. In **ICASSP2025** (Long, under review)  
 * Causal Intervention-based Prompt Debiasing for Event Argument Extraction. [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
 * Recommendation Model Based on Heterogeneous Information Networks. (In Chinese)
