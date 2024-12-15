@@ -29,7 +29,7 @@ Work Experience
 
 Publications
 ======
-* From Token to Passage: Semantic-enhanced Hallucination Detection via Multi-Granularity Uncertainty. 
+* Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection.
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024 findings** (Long)
