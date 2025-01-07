@@ -17,5 +17,4 @@ My research interests include **Applications of Large Language Models**, **Hallu
 
 Welcome any email contact: ckd141forever<<>>gmail.com.
 
-<iframe src="//clustrmaps.com/map2?d=CxPuLupp87wWkeHkVRmPomjtrbgDz-kzjqxNiiktY1I" width="200" height="150" frameborder="0"></iframe>
 
