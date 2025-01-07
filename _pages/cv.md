@@ -46,27 +46,27 @@ redirect_from:
   
 \*: equal contribution †: corresponding author
   
-Skills
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/skill.png" width="40" height="40"/> Skills
 ======
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
 * NLP domains: applications of LLMs, hallucination of LLMs, math/code reasoning (synthetic data generation), information extraction (including sentiment analysis), knowledge graph
 * Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory
   
-Selected Awards
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/award.png" width="40" height="40"/> Selected Awards
 ======
 * National Scholarship: 3rd year of undergraduate
 * ACM-ICPC Nanjing Regional Contest Bronze Medal in 2020 Winter
 * National Gold Medal in the 2021 Team Programming Ladder Competition
 * National Third Prize in the 2021 Lanqiao Cup C++ Group A
 
-Social Contribution
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/zhiyuan.png" width="40" height="40"/> Social Contribution
 =====
 * reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
 
-Teaching
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/teach.png" width="40" height="40"/> Teaching
 ======
 * teaching assistant of Artificial Intelligence Courses in 2023 Spring
