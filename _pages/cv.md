@@ -15,7 +15,7 @@ redirect_from:
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
 * High School - School Affiliated to Nanjing Normal University, 2014-2018
 
-Work Experience
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/company.png" width="40" height="40"/> Work Experience
 ======
 * October 2024 till now: Shanghai Artificial Intelligence Laboratory
   * Position: a full-time research intern
