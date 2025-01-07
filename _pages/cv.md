@@ -27,7 +27,7 @@ redirect_from:
   * Position: LLM developer
   * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
-Publications
+<img src="https://github.com/141forever/141forever.github.io/blob/master/images/paper.png" width="40" height="40"/> Publications
 ======
 * Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [arxiv] [github]
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
