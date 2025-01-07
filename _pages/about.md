@@ -16,5 +16,3 @@ I uesd to work at RedBook Company, being a research-focused natural language pro
 My research interests include **Applications of Large Language Models**, **Hallucination in Large Language Models**, and **Information Extraction**.
 
 Welcome any email contact: ckd141forever@gmail.com.
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=CxPuLupp87wWkeHkVRmPomjtrbgDz-kzjqxNiiktY1I"></script>
