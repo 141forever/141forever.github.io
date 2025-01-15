@@ -62,7 +62,7 @@ redirect_from:
 
 <img src="https://github.com/141forever/141forever.github.io/blob/master/images/zhiyuan.png" width="40" height="40"/> Social Contribution
 =====
-* reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025
+* reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025, CVPR2025
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
