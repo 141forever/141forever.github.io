@@ -51,7 +51,7 @@ redirect_from:
 * NLP domains: applications of LLMs, hallucination of LLMs, math/code reasoning (synthetic data generation), information extraction (including sentiment analysis), knowledge graph
 * Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory
   
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/award.png" width="40" height="40"/> Selected Awards
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/award.png" width="40" height="40"/> Selected Awards
 ======
 * National Scholarship: 3rd year of undergraduate
 * ACM-ICPC Nanjing Regional Contest Bronze Medal in 2020 Winter
