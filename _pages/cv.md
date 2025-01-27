@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/school.png" width="40" height="40"/> Education
+<img src="[https://github.com/](https://raw.githubusercontent.com/141forever/141forever.github.io/blob/master/images/school.png" width="40" height="40"/> Education
 ======
 * M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University, Shanghai, 2022-2025 (expected)
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
