@@ -15,7 +15,7 @@ redirect_from:
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
 * High School - School Affiliated to Nanjing Normal University, 2014-2018
 
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/company.png" width="40" height="40"/> Work Experience
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
 * October 2024 till now: Shanghai Artificial Intelligence Laboratory
   * Position: a full-time research intern
@@ -27,7 +27,7 @@ redirect_from:
   * Position: LLM developer
   * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/paper.png" width="40" height="40"/> Publications
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
 * Complete Chess Games Enable LLM Become A Chess Master. [arxiv] [github]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
@@ -44,7 +44,7 @@ redirect_from:
   
 \*: equal contribution †: corresponding author
   
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/skill.png" width="40" height="40"/> Skills
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/skill.png" width="40" height="40"/>  Skills
 ======
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
@@ -58,13 +58,13 @@ redirect_from:
 * National Gold Medal in the 2021 Team Programming Ladder Competition
 * National Third Prize in the 2021 Lanqiao Cup C++ Group A
 
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/zhiyuan.png" width="40" height="40"/> Social Contribution
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/zhiyuan.png" width="40" height="40"/>  Social Contribution
 =====
 * reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025, CVPR2025
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
 
-<img src="https://github.com/141forever/141forever.github.io/blob/master/images/teach.png" width="40" height="40"/> Teaching
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/teach.png" width="40" height="40"/>  Teaching
 ======
 * teaching assistant of Artificial Intelligence Courses in 2023 Spring
