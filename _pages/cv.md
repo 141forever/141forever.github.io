@@ -31,7 +31,7 @@ redirect_from:
 ======
 * Complete Chess Games Enable LLM Become A Chess Master. [arxiv] [github]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
-* Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [arxiv] [github]
+* Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [[arxiv](https://arxiv.org/abs/2501.02020)] [github]
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024 findings** (Long)
@@ -60,7 +60,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/zhiyuan.png" width="40" height="40"/>  Social Contribution
 =====
-* reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025, CVPR2025
+* reviewer of conferences: AAAI2022, PRCV2023, ARR2024, AAAI2025, COLING2025, CVPR2025, ICME2025
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
