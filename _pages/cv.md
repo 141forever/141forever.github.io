@@ -29,6 +29,8 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
+* Reasoning. [arxiv] [github]
+  <br />**Kedi Chen**. In **ACL2025** (Short ,under review)
 * Complete Chess Games Enable LLM Become A Chess Master. [arxiv] [github]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
 * Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [[arxiv](https://arxiv.org/abs/2501.02020)] [github]
