@@ -31,6 +31,8 @@ redirect_from:
 ======
 * Reasoning. [arxiv] [github]
   <br />**Kedi Chen**. In **ACL2025** (Short ,under review)
+* Reasoning. [arxiv] [github]
+  <br /> Fan Zhang, **Kedi Chen**. In **ICML2025** (under review)
 * Complete Chess Games Enable LLM Become A Chess Master. [arxiv] [github]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
 * Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [[arxiv](https://arxiv.org/abs/2501.02020)] [github]
