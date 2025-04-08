@@ -9,8 +9,8 @@ redirect_from:
 
 Hello, my name is Kedi Chen (陈可迪), you can call me Andy Chen. My hometown is Nanjing, Jiangsu Province in China and I currently live in Shanghai. 
 
-I am a master candidate from the School of Computer Science and Technology, East China Normal University in Shanghai (ECNU). 
-I studied at [ICALK](https://github.com/ECNU-ICALK) and majored in Computer Science and Technology, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN). 
+I am now a joint Ph.D. student of East China Normal University (ECNU) and the China Academy of Artificial Intelligence. I’m in the School of Computer Science and Technology and my major is Computer Application Technology.
+I studied at [ICALK](https://github.com/ECNU-ICALK) and specialized in Computer Science and Technology as a master student in the current school, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN). 
 Before this, I obtained my undergraduate degree from the School of Computer Science and Technology, Soochow University (SUDA) in Suzhou, majoring in Artificial Intelligence, guided by [Prof. Lei Zhao](https://scst.suda.edu.cn/11/29/c30767a528681/page.htm) from [ADA LAB](https://ada.suda.edu.cn/).
 
 I uesd to work at RedBook Company, being a research-focused natural language processing intern in advertising algorithms. Now, I am working in Shanghai Artificial Intelligence Laboratory as a full-time research intern.
