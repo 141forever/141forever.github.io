@@ -19,7 +19,7 @@ redirect_from:
 ======
 * October 2024 till now: Shanghai Artificial Intelligence Laboratory
   * Position: a full-time research intern
-  * Duties: LLMs self-correction, code reasoning, math reasoning
+  * Duties: LLM reasoning, RL Infra, Agent RL
 * May 2024 - October 2024: RedBook
   * Position: a business-focused NLP intern in advertising algorithms
   * Duties: note title generation, note title review, note content generation and research for hallucination detection
