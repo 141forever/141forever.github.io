@@ -29,9 +29,11 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
+* Beyond. [arxiv] [github]
+  <br /> Siyu Yan, **Kedi Chen**. In **EMNLP2025** (Industry Track, under review)
 * Reasoning. [arxiv] [github]
-  <br />**Kedi Chen**. In **NIPS2025** (Short, under review)
-* Reasoning. [arxiv] [github]
+  <br />**Kedi Chen**. In **NIPS2025** (Datasets and Benchmarks Track, under review)
+* Unleshing. [arxiv] [github]
   <br /> Fan Zhang, **Kedi Chen**. In **ACM MM2025** (under review)
 * Complete Chess Games Enable LLM Become A Chess Master. [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
