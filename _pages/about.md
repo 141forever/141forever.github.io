@@ -15,7 +15,7 @@ Before this, I obtained my undergraduate degree from the School of Computer Scie
 
 I uesd to work at RedBook Company, being a business-focused natural language processing intern in advertising algorithms (AIGC). Now, I am working in Shanghai Artificial Intelligence Laboratory as a full-time research intern.
 
-My research interests include **Applications of Large Language Models**, **Hallucination in Large Language Models**, and **Information Extraction**.
+My research interests include **Applications of Large Language Models**, **Reasoning Ability of Large Language Models**, and **Hallucination in Large Language Models**.
 
 Welcome any email contact: ckd141forever<<<>>>gmail.
 
