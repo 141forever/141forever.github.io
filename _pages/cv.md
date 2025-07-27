@@ -11,7 +11,8 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/school.png" width="40" height="40"/> Education
 ======
-* M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University, Shanghai, 2022-2025 (expected)
+* PH.D. - Computer Application Technology, East China Normal University and the China Academy of Artificial Intelligence, Shanghai, 2025-2028 (expected)
+* M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University, Shanghai, 2022-2025
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
 * High School - School Affiliated to Nanjing Normal University, 2014-2018
 
@@ -29,18 +30,20 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
+* Tools. [arxiv] [github]
+  <br /> Zijie Yu, **Kedi Chen**. In **AAAI2026** (under review)
+* Unleshing. [arxiv] [github]
+  <br /> Fan Zhang, **Kedi Chen**. In **AAAI2026** (under review)
 * Beyond. [arxiv] [github]
   <br /> Siyu Yan, **Kedi Chen**. In **EMNLP2025** (Industry Track, under review)
 * Reasoning. [arxiv] [github]
   <br />**Kedi Chen**. In **NIPS2025** (Datasets and Benchmarks Track, under review)
-* Unleshing. [arxiv] [github]
-  <br /> Fan Zhang, **Kedi Chen**. In **ACM MM2025** (under review)
 * Complete Chess Games Enable LLM Become A Chess Master. [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
 * Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
 * DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
-  <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024 findings** (Long)
+  <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024** (findings, Long)
 * A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * Causal Intervention-based Prompt Debiasing for Event Argument Extraction. [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
