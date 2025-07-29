@@ -30,6 +30,8 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
+* InternBootcamp Technical Report. [arxiv] [[github](https://github.com/InternLM/InternBootcamp)]
+  <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, **Kedi Chen**. In **arxiv2025**
 * Tools. [arxiv] [github]
   <br /> Zijie Yu, **Kedi Chen**. In **AAAI2026** (under review)
 * Unleshing. [arxiv] [github]
