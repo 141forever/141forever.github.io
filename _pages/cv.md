@@ -30,10 +30,8 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
-* InternBootcamp Technical Report. [arxiv] [[github](https://github.com/InternLM/InternBootcamp)]
-  <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, **Kedi Chen**. In **arxiv2025**
-* Tools. [arxiv] [github]
-  <br /> Zijie Yu, **Kedi Chen**. In **AAAI2026** (under review)
+* InternBootcamp Technical Report. [[arxiv](https://arxiv.org/pdf/2508.08636v1)] [[github](https://github.com/InternLM/InternBootcamp)]
+  <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, Yichuan Ma, Zijie Yu, Kedi Chen, Ganqu Cui, Haozhan Li, Jiacheng Chen, Chengqi Lyu, Wenwei Zhang, Linyang Li†, Qipeng Guo, Dahua Lin, Bowen Zhou, Kai Chen1† **Kedi Chen**. In **arxiv2025**
 * Unleshing. [arxiv] [github]
   <br /> Fan Zhang, **Kedi Chen**. In **AAAI2026** (under review)
 * Beyond. [arxiv] [github]
