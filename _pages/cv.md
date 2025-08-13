@@ -58,7 +58,7 @@ redirect_from:
 * Language: Chinese, English (CET6: 528)
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
 * NLP domains: applications of LLMs, hallucination of LLMs, math/code reasoning (synthetic data generation), information extraction (including sentiment analysis), knowledge graph
-* Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory, InternTrainer, Opnecompass, Cargoflow
+* Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory, InternTrainer, Opnecompass, Cargoflow, Verl, RL-factory
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/award.png" width="40" height="40"/> Selected Awards
 ======
