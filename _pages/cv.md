@@ -18,7 +18,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
-* October 2024 till now: Shanghai Artificial Intelligence Laboratory
+* October 2024 - July 2025: Shanghai Artificial Intelligence Laboratory
   * Position: a full-time research intern
   * Duties: LLM reasoning, RL Infra, Agent RL
 * May 2024 - October 2024: RedBook
