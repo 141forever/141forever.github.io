@@ -30,6 +30,8 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
+* Intern-S1: A Scientific Multimodal Foundation Model. [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
+  <br /> Intern-S1 Team, Shanghai AI Laboratory. In **arxiv2025** (contribution of chemical synthesis data)
 * InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling. [[arxiv](https://arxiv.org/pdf/2508.08636v1)] [[github](https://github.com/InternLM/InternBootcamp)]
   <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, Yichuan Ma, Zijie Yu, **Kedi Chen**, Ganqu Cui, Haozhan Li, Jiacheng Chen, Chengqi Lyu, Wenwei Zhang, Linyang Li†, Qipeng Guo, Dahua Lin, Bowen Zhou, Kai Chen†. In **arxiv2025**
 * Unleshing. [arxiv] [github]
