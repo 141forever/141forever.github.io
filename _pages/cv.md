@@ -30,9 +30,9 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
-* Intern-S1: A Scientific Multimodal Foundation Model. [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
+* **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
   <br /> Intern-S1 Team, Shanghai AI Laboratory. In **arxiv2025** (contribution of chemical synthesis data)
-* InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling. [[arxiv](https://arxiv.org/pdf/2508.08636v1)] [[github](https://github.com/InternLM/InternBootcamp)]
+* **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling** [[arxiv](https://arxiv.org/pdf/2508.08636v1)] [[github](https://github.com/InternLM/InternBootcamp)]
   <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, Yichuan Ma, Zijie Yu, **Kedi Chen**, Ganqu Cui, Haozhan Li, Jiacheng Chen, Chengqi Lyu, Wenwei Zhang, Linyang Li†, Qipeng Guo, Dahua Lin, Bowen Zhou, Kai Chen†. In **arxiv2025**
 * Unleshing. [arxiv] [github]
   <br /> Fan Zhang, **Kedi Chen**. In **AAAI2026** (under review)
@@ -40,17 +40,17 @@ redirect_from:
   <br /> Siyu Yan, **Kedi Chen**. In **EMNLP2025** (Industry Track, under review)
 * Reasoning. [arxiv] [github]
   <br />**Kedi Chen**. In **NIPS2025** (Datasets and Benchmarks Track, under review)
-* Complete Chess Games Enable LLM Become A Chess Master. [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
+* **Complete Chess Games Enable LLM Become A Chess Master** [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
-* Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection. [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
+* **Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection** [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
-* DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models. [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
+* **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models** [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024** (findings, Long)
-* A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder. [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
+* **A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder** [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
-* Causal Intervention-based Prompt Debiasing for Event Argument Extraction. [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
+* **Causal Intervention-based Prompt Debiasing for Event Argument Extraction** [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
-* Recommendation Model Based on Heterogeneous Information Networks. (In Chinese)
+* **Recommendation Model Based on Heterogeneous Information Networks** (In Chinese)
   <br />**Kedi Chen**, Lei Zhao†, Xinyi Chen, Kenan Shi. In **Computer System Applications (2022.8)**
   
 \*: equal contribution †: corresponding author
