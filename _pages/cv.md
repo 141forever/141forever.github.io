@@ -50,8 +50,8 @@ redirect_from:
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
 * **Causal Intervention-based Prompt Debiasing for Event Argument Extraction** [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
-* **Recommendation Model Based on Heterogeneous Information Networks** (In Chinese)
-  <br />**Kedi Chen**, Lei Zhao†, Xinyi Chen, Kenan Shi. In **Computer System Applications (2022.8)**
+* **Recommendation Model Based on Heterogeneous Information Networks** 
+  <br />**Kedi Chen**, Lei Zhao†, Xinyi Chen, Kenan Shi. In **Computer System Applications (2022.8)** (Long, in Chinese)
   
 \*: equal contribution †: corresponding author
   
