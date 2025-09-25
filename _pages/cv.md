@@ -32,6 +32,8 @@ redirect_from:
 ======
 * Beyond. [arxiv] [github]
   <br /> Siyu Yan, **Kedi Chen**. In **WWW2026** (under review)
+* Hallucination. [arxiv] [github]
+  <br /> Jianghao Yin, **Kedi Chen**. In **ICLR2026** (under review)
 * Reasoning. [arxiv] [github]
   <br />**Kedi Chen**. In **ICLR2026** (under review)
 * **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
