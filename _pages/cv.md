@@ -11,16 +11,17 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/school.png" width="40" height="40"/> Education
 ======
-* PH.D. - Computer Application Technology, East China Normal University and Shanghai Innovation Institude
-
-  Shanghai, 2025-2028 (expected)
-* M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University, Shanghai, 2022-2025
-* B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
-* High School - School Affiliated to Nanjing Normal University, 2014-2018
-
-I studied at [ICALK](https://github.com/ECNU-ICALK) and specialized in Computer Science and Technology as a master student in the current school, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN). 
-Before this, I obtained my undergraduate degree from the School of Computer Science and Technology, Soochow University (SUDA) in Suzhou, majoring in Artificial Intelligence, guided by [Prof. Lei Zhao](https://scst.suda.edu.cn/11/29/c30767a528681/page.htm) from [ADA LAB](https://ada.suda.edu.cn/).
-
+* Ph.D. - Computer Application Technology, East China Normal University and Shanghai Innovation Institude
+  <br /> Shanghai, 2025-2028 (expected), supervised by [Prof. Wei Zhang](https://weizhangltt.github.io/)
+  
+* M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University
+  <br /> Shanghai, 2022-2025, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN) from [ICALK](https://github.com/ECNU-ICALK).
+  
+* B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University,
+  <br /> Suzhou, 2018-2022, guided by [Prof. Lei Zhao](https://scst.suda.edu.cn/11/29/c30767a528681/page.htm) from [ADA LAB](https://ada.suda.edu.cn/)
+  
+* High School - School Affiliated to Nanjing Normal University,
+ <br /> Nanjing, 2014-2017
 
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
@@ -37,38 +38,64 @@ Before this, I obtained my undergraduate degree from the School of Computer Scie
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
-* Beyond. [arxiv] [github]
-  <br /> Siyu Yan, **Kedi Chen**. In **WWW2026** (under review)
-* Hallucination. [arxiv] [github]
-  <br /> Jianghao Yin, **Kedi Chen**. In **ICLR2026** (under review)
-* Reasoning. [arxiv] [github]
-  <br />**Kedi Chen**. In **ICLR2026** (under review)
-* **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> Intern-S1 Team, Shanghai AI Laboratory. In **arxiv2025** (contribution of chemical synthesis data)
+All pulications can be found in my Google Scholar page, [here](https://scholar.google.com/citations?user=_kmYvFsAAAAJ&hl=zh-CN).
+
+<span style="color:#1E90FF">LLM Reasoning</span>
+
 * **InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling** [[arxiv](https://arxiv.org/pdf/2508.08636v1)] [[github](https://github.com/InternLM/InternBootcamp)]
   <br /> Peiji Li\*, Jiasheng Ye\*, Yongkang Chen\*, Yichuan Ma, Zijie Yu, **Kedi Chen**, Ganqu Cui, Haozhan Li, Jiacheng Chen, Chengqi Lyu, Wenwei Zhang, Linyang Li†, Qipeng Guo, Dahua Lin, Bowen Zhou, Kai Chen†. In **arxiv2025**
-* Unleshing. [arxiv] [github]
-  <br /> Fan Zhang, **Kedi Chen**. In **AAAI2026** (under review)
+
 * **Complete Chess Games Enable LLM Become A Chess Master** [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br />Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
+
+<span style="color:#1E90FF">LLM Backbone Training</span>
+
+* **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
+  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (contribution of chemical synthesis data)
+
+<span style="color:#1E90FF">Agntic LLM</span>
+
+<span style="color:#1E90FF">LLM Hallucination</span>
+
+* **HalluScope: A Comprehensive Dataset for Evaluating Hallucination in Large Language Models Across Multiple Domains**
+  <br />Chen Zhao, BiaoJie Zeng, **Kedi Chen**, Xin Lin†. In **ICIC2025** (Long)
+
 * **Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection** [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
   <br />**Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
+  
 * **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models** [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br />**Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024** (findings, Long)
+
+<span style="color:#1E90FF">LLM Applications</span>
+
+<span style="color:#1E90FF"Old School</span>
+
 * **A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder** [[arxiv](https://arxiv.org/abs/2403.00891)] [[github](https://github.com/141forever/TransferUIE)]
   <br />**Kedi Chen**, Jie Zhou, Qin Chen†, Shunyu Liu, Liang He. In **COLING2024** (Long)
-* **Causal Intervention-based Prompt Debiasing for Event Argument Extraction** [[arxiv](https://arxiv.org/abs/2210.01561)] [github]
+  
+* **Causal Intervention-based Prompt Debiasing for Event Argument Extraction** [[arxiv](https://arxiv.org/abs/2210.01561)]
   <br />Jiaju Lin, **Kedi Chen**, Qin Chen†, Jie Zhou, Liang He. In **arxiv2023** (Long)
+  
 * **Recommendation Model Based on Heterogeneous Information Networks** 
   <br />**Kedi Chen**, Lei Zhao†, Xinyi Chen, Kenan Shi. In **Computer System Applications (2022.8)** (Long, in Chinese)
   
 \*: equal contribution †: corresponding author
+
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Manuscripts and Preprints
+======
+* . [arxiv] [github]
+  <br />**Kedi Chen**. In **ACL2026** (under review)
+* . [arxiv] [github]
+  <br /> Siyu Yan, **Kedi Chen**. In **WWW2026** (under review)
+* . [arxiv] [github]
+  <br /> Jianghao Yin, **Kedi Chen**. In **ICLR2026** (under review)
+* . [arxiv] [github]
+  <br />**Kedi Chen**. In **ICLR2026** (under review)
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/skill.png" width="40" height="40"/>  Skills
 ======
-* Language: Chinese, English (CET6: 528)
+* Language: Chinese, English
 * Programming language: Python (mostly used), C++ (used in algorithmic competitions)
-* NLP domains: applications of LLMs, hallucination of LLMs, math/code reasoning (synthetic data generation), information extraction (including sentiment analysis), knowledge graph
 * Deep Learning Framework: Pytorch, FastNLP, Firefly, LLaMA-Factory, InternTrainer, Opnecompass, Cargoflow, Verl, RL-factory
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/award.png" width="40" height="40"/> Selected Awards
