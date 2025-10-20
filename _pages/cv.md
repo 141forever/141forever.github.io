@@ -11,10 +11,17 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/school.png" width="40" height="40"/> Education
 ======
-* PH.D. - Computer Application Technology, East China Normal University and the China Academy of Artificial Intelligence, Shanghai, 2025-2028 (expected)
+* PH.D. - Computer Application Technology, East China Normal University and Shanghai Innovation Institude
+
+  Shanghai, 2025-2028 (expected)
 * M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University, Shanghai, 2022-2025
 * B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University, 2018-2022
 * High School - School Affiliated to Nanjing Normal University, 2014-2018
+
+I studied at [ICALK](https://github.com/ECNU-ICALK) and specialized in Computer Science and Technology as a master student in the current school, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN). 
+Before this, I obtained my undergraduate degree from the School of Computer Science and Technology, Soochow University (SUDA) in Suzhou, majoring in Artificial Intelligence, guided by [Prof. Lei Zhao](https://scst.suda.edu.cn/11/29/c30767a528681/page.htm) from [ADA LAB](https://ada.suda.edu.cn/).
+
+
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
