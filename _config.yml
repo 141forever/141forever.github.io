@@ -24,15 +24,15 @@ author:
   avatar           : "1.png"
   name             : "Kedi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "A joint Ph.D. student of East China Normal University and the China Academy of Artificial Intelligence."
+  bio              : "joint Ph.D. of East China Normal University and Shanghai Innovation Institute"
   location         : "Nanjing, China (UTC+8)"
-  employer         : "East China Normal University"
+  employer         : "Shanghai Innovation Institute"
   uri              : # URL
   email            : "ckd141forever@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=_kmYvFsAAAAJ&hl=zh-CN"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kedi-chen-733b32309"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
