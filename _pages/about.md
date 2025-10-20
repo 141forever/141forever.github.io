@@ -19,7 +19,8 @@ My research interests include **Applications of Large Language Models**, **Reaso
 
 Welcome any email contact: ckd141forever<<<>>>gmail.
 
-<div style="width: 200px; height: 150px; overflow: hidden;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CxPuLupp87wWkeHkVRmPomjtrbgDz-kzjqxNiiktY1I&cl=ffffff&w=a" style="transform: scale(0.1); transform-origin: 0 0;"></script>
+<div style="width: 240px; height: 160px; overflow: hidden;">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=CxPuLupp87wWkeHkVRmPomjtrbgDz-kzjqxNiiktY1I'></script>
 </div>
+
 
