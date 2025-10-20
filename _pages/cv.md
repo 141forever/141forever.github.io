@@ -64,7 +64,7 @@ All pulications can be found in my Google Scholar page, [here](https://scholar.g
 <span style="color:#1E90FF">**LLM Hallucination**</span>
 
 * **HalluScope: A Comprehensive Dataset for Evaluating Hallucination in Large Language Models Across Multiple Domains**
-  <br / >Chen Zhao, BiaoJie Zeng, **Kedi Chen**, Xin Lin†. In **ICIC2025** (Long)
+  <br />Chen Zhao, BiaoJie Zeng, **Kedi Chen**, Xin Lin†. In **ICIC2025** (Long)
 
 * **Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection** [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
   <br /> **Kedi Chen**\*, Qin Chen\*†, Jie Zhou, Xinqi Tao, Bowen Ding, Jingwen Xie, Mingchen Xie, Peilong Li, Feng Zheng. In **AAAI2025** (Long)
@@ -90,16 +90,6 @@ All pulications can be found in my Google Scholar page, [here](https://scholar.g
   
 \*: equal contribution †: corresponding author
 
-<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Manuscripts and Preprints
-======
-* . [arxiv] [github]
-  <br />**Kedi Chen**. In **ACL2026** (under review)
-* . [arxiv] [github]
-  <br /> Siyu Yan, **Kedi Chen**. In **WWW2026** (under review)
-* . [arxiv] [github]
-  <br /> Jianghao Yin, **Kedi Chen**. In **ICLR2026** (under review)
-* . [arxiv] [github]
-  <br />**Kedi Chen**. In **ICLR2026** (under review)
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/skill.png" width="40" height="40"/>  Skills
 ======
@@ -110,13 +100,13 @@ All pulications can be found in my Google Scholar page, [here](https://scholar.g
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/award.png" width="40" height="40"/> Selected Awards
 ======
 * National Scholarship: 3rd year of undergraduate
-* ACM-ICPC Nanjing Regional Contest Bronze Medal in 2020 Winter
-* National Gold Medal in the 2021 Team Programming Ladder Competition
-* National Third Prize in the 2021 Lanqiao Cup C++ Group A
+* Internation Bronze Medal：ACM-ICPC Nanjing Regional Contest, in 2020 Winter
+* National Gold Medal：the Team Programming Ladder Competition, in 2021
+* National Third Prize: Lanqiao Cup, C++, Group A, in 2021
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/zhiyuan.png" width="40" height="40"/>  Social Contribution
 =====
-* reviewer of conferences: AAAI, PRCV, ARR, COLING, CVPR, ICME, ICML
+* reviewer of conferences: AAAI, PRCV, ARR, COLING, CVPR, ICME, ICML, KDD
 * student membership of the China Computer Federation
 * student membership of the Committee on Natural Language Processing in Shanghai
 * president of the Military Enthusiasts Association of Soochow University from 2019 to 2020
