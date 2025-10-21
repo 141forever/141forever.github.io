@@ -30,7 +30,7 @@ redirect_from:
   * Position: full-time research intern
     <br /> cooperating closely with [Dr. Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=zh-TW) and [Dr. Linyang Li](https://scholar.google.com/citations?user=T6eEqcMAAAAJ&hl=zh-TW)
   * Duty: reasoning data synthesis for LLMs, agent framework construction
-  * Work: backbone training of [InternLM3](https://github.com/InternLM/InternLM) and [Intern-S1](https://github.com/InternLM/Intern-S1), data synthesis framework CargoFlow construction, agent reasoning framework [InternBootcamp](https://github.com/InternLM/InternBootcamp) (v1.0 and v2.0) build up.
+  * Work: backbone training of [InternLM3](https://github.com/InternLM/InternLM) and [Intern-S1](https://github.com/InternLM/Intern-S1), data synthesis framework CargoFlow construction, agent reasoning framework [InternBootcamp](https://github.com/InternLM/InternBootcamp) (v1.0 and v2.0) build up
     
 * May 2024 - October 2024: **RedBook** <img src="https://github.com/141forever/141forever.github.io/blob/master/images/redbook.jpg" width="30" height="30"/>
   * Position: full-time business intern
