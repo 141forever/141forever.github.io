@@ -36,7 +36,7 @@ redirect_from:
   * Position: full-time business intern
     <br /> cooperating with my friends [Yinqi Zhang](https://inchzhang.com/) and [Siyu Yan](https://scholar.google.com/citations?user=1WVip2MAAAAJ&hl=zh-CN)
   * Duty: note title generation, note title review, note content generation, research for hallucination detection
-  * Work:  business-focused research and LLMs in advertising algorithms
+  * Work:  business-focused research in advertising algorithms
     
 * March 2023 - April 2023: **Shanghai Institute of Intelligent Education** <img src="https://github.com/141forever/141forever.github.io/blob/master/zhinengjiaoyu.jpg" width="130" height="30"/>
   * Position: part-time research intern
