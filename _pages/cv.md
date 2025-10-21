@@ -26,19 +26,22 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
-* October 2024 - September 2025: Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) <img src="https://github.com/141forever/141forever.github.io/blob/master/images/pjlab.jpg" width="120" height="20"/>
-  * Position: a full-time research intern
-  * Duty: LLM reasoning, RL Infra, Agent RL
+* October 2024 - September 2025: **Shanghai Artificial Intelligence Laboratory** (Shanghai AI Lab) <img src="https://github.com/141forever/141forever.github.io/blob/master/images/pjlab.jpg" width="130" height="30"/>
+  * Position: full-time research intern
+    <br /> working closely with [Dr. Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=zh-TW) and [Dr. Linyang Li](https://scholar.google.com/citations?user=T6eEqcMAAAAJ&hl=zh-TW).
+  * Duty: reasoning data synthesis for LLMs, agent framework construction
+  * Work: backbone training of [InternLM3](https://github.com/InternLM/InternLM) and [Intern-S1](https://github.com/InternLM/Intern-S1), data synthesis framework CargoFlow construction, agent reasoning framework [InternBootcamp](https://github.com/InternLM/InternBootcamp) build up.
+    
 * May 2024 - October 2024: RedBook
   * Position: a business-focused NLP intern in advertising algorithms
-  * Duty: note title generation, note title review, note content generation and research for hallucination detection
+  * Duty: note title generation, note title review, note content generation, and research for hallucination detection
 * March 2023 - April 2023: Shanghai Institute of Intelligent Education
   * Position: LLM research intern
   * Duty: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
-All pulications can be found in my Google Scholar page, [here](https://scholar.google.com/citations?user=_kmYvFsAAAAJ&hl=zh-CN).
+All publications can be found on my Google Scholar page [here](https://scholar.google.com/citations?user=_kmYvFsAAAAJ&hl=zh-CN).
 
 <span style="color:#1E90FF">**LLM Reasoning**</span>
 
