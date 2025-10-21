@@ -11,30 +11,30 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/school.png" width="40" height="40"/> Education
 ======
-* Ph.D. - Computer Application Technology, East China Normal University and Shanghai Innovation Institude
+* Ph.D. - Computer Application Technology, East China Normal University and Shanghai Innovation Institute
   <br /> Shanghai, 2025-2028 (expected), supervised by [Prof. Wei Zhang](https://weizhangltt.github.io/)
   
 * M.S. - Computer Science and Technology, the School of Computer Science and Technology, East China Normal University
   <br /> Shanghai, 2022-2025, advised by [Prof. Liang He](https://scholar.google.com/citations?user=aW_cCQwAAAAJ&hl=zh-CN) and [Prof. Qin Chen](https://scholar.google.com/citations?user=S7u5zTQAAAAJ&hl=zh-CN) from [ICALK](https://github.com/ECNU-ICALK)
   
-* B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University,
+* B.S. - Artificial Intelligence, the School of Computer Science and Technology, Soochow University
   <br /> Suzhou, 2018-2022, guided by [Prof. Lei Zhao](https://scst.suda.edu.cn/11/29/c30767a528681/page.htm) from [ADA LAB](https://ada.suda.edu.cn/)
   
-* High School - School Affiliated to Nanjing Normal University,
+* High School - School Affiliated to Nanjing Normal University
  <br /> Nanjing, 2014-2017
 
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
-* October 2024 - July 2025: Shanghai Artificial Intelligence Laboratory
+* October 2024 - September 2025: Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) <img src="https://github.com/141forever/141forever.github.io/blob/master/images/pjlab.jpg" width="120" height="20"/>
   * Position: a full-time research intern
-  * Duties: LLM reasoning, RL Infra, Agent RL
+  * Duty: LLM reasoning, RL Infra, Agent RL
 * May 2024 - October 2024: RedBook
   * Position: a business-focused NLP intern in advertising algorithms
-  * Duties: note title generation, note title review, note content generation and research for hallucination detection
+  * Duty: note title generation, note title review, note content generation and research for hallucination detection
 * March 2023 - April 2023: Shanghai Institute of Intelligent Education
-  * Position: LLM developer
-  * Duties: early-stage research on LLM development, including the expansion of the Chinese vocabulary
+  * Position: LLM research intern
+  * Duty: early-stage research on LLM development, including the expansion of the Chinese vocabulary
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
