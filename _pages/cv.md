@@ -26,19 +26,19 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/company.png" width="40" height="40"/>  Work Experience
 ======
-* October 2024 - September 2025: **Shanghai Artificial Intelligence Laboratory** (Shanghai AI Lab) <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/blob/master/images/pjlab.jpg" width="130" height="30"/>
+* October 2024 - September 2025: **Shanghai Artificial Intelligence Laboratory** (Shanghai AI Lab) <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/pjlab.jpg" width="130" height="30"/>
   * Position: full-time research intern
     <br /> cooperating closely with [Dr. Qipeng Guo](https://scholar.google.com/citations?user=k3mPGKgAAAAJ&hl=zh-TW) and [Dr. Linyang Li](https://scholar.google.com/citations?user=T6eEqcMAAAAJ&hl=zh-TW)
   * Duty: reasoning data synthesis for LLMs, agent framework construction
   * Work: backbone training of [InternLM3](https://github.com/InternLM/InternLM) and [Intern-S1](https://github.com/InternLM/Intern-S1), data synthesis framework CargoFlow construction, agent reasoning framework [InternBootcamp](https://github.com/InternLM/InternBootcamp) (v1.0 and v2.0) build up
     
-* May 2024 - October 2024: **RedBook** <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/blob/master/images/redbook.jpg" width="30" height="30"/>
+* May 2024 - October 2024: **RedBook** <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/redbook.jpg" width="30" height="30"/>
   * Position: full-time business intern
     <br /> cooperating with my friends [Yinqi Zhang](https://inchzhang.com/) and [Siyu Yan](https://scholar.google.com/citations?user=1WVip2MAAAAJ&hl=zh-CN)
   * Duty: note title generation, note title review, note content generation, research for hallucination detection
   * Work:  business-focused research in advertising algorithms
     
-* March 2023 - April 2023: **Shanghai Institute of Intelligent Education** <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/blob/master/zhinengjiaoyu.jpg" width="130" height="30"/>
+* March 2023 - April 2023: **Shanghai Institute of Intelligent Education** <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/zhinengjiaoyu.jpg" width="130" height="30"/>
   * Position: part-time research intern
   * Duty: early-stage research on LLMs, expansion of the Chinese vocabulary, LLM pretraining
   * Work: the first education LLM in China: [Educhat](https://www.educhat.top/) (v1.0)
