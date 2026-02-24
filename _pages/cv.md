@@ -70,7 +70,7 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 <span style="color:#1E90FF">**LLM Hallucination**</span>
 
-* **Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models**[arxiv] [github]
+* **Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models** [arxiv] [github]
   <br />Jianghao Yin, Qin Chen†, **Kedi Chen**, Zhou Jie, Xingjiao Wu, Liang He. In **ICLR2026** (Long)
 
 * **Enhancing Uncertainty Modeling with Semantic Graph for Hallucination Detection** [[arxiv](https://arxiv.org/abs/2501.02020)] [[github](https://github.com/141forever/UncerSema4HalluDetec)]
