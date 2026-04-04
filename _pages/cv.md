@@ -64,7 +64,7 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 <span style="color:#1E90FF">**LLM Backbone Training**</span>
 
 * **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (technique report, contribution of chemical synthesis data)
+  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (Technique Report, contribution of chemical synthesis data)
 
 <span style="color:#1E90FF">**Agntic LLM**</span>
 
