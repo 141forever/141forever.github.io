@@ -64,7 +64,7 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 <span style="color:#1E90FF">**LLM Backbone Training**</span>
 
 * **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (contribution of chemical synthesis data)
+  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (technique report, contribution of chemical synthesis data)
 
 <span style="color:#1E90FF">**Agntic LLM**</span>
 
@@ -81,12 +81,12 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 <span style="color:#1E90FF">**LLM Applications**</span>
 
-* **Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models** [[arxiv](https://arxiv.org/pdf/2508.18739?)] [[github](https://github.com/yansiyu02/MUSE)]
-  <br /> Chang Wang\*, Siyu Yan\*, Depeng Yuan, Yuqi Chen, Yanhua Huang†, Yuanhang Zheng, Shuhao Li, Yinqi Zhang, **Kedi Chen**, Mingrui Zhu, Ruiwen Xu. In **arxiv2025** (Long)
+* **Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models** [[arxiv](https://arxiv.org/pdf/2508.18739?)]
+  <br /> Chang Wang\*, Siyu Yan\*, Depeng Yuan, Yuqi Chen, Yanhua Huang†, Yuanhang Zheng, Shuhao Li, Yinqi Zhang, **Kedi Chen**, Mingrui Zhu, Ruiwen Xu. In **SIGIR2026 Industry Track** (Long)
 
 <span style="color:#1E90FF">**MLLM/World Model**</span>
 
-* **Vic-bench: Benchmarking visual-interleaved chain-of-thought capability in mllms with free-style intermediate state representations** [[arxiv](https://arxiv.org/pdf/2505.14404?)] [github]
+* **Vic-bench: Benchmarking visual-interleaved chain-of-thought capability in mllms with free-style intermediate state representations** [[arxiv](https://arxiv.org/pdf/2505.14404?)]
   <br /> Xuecheng Wu\*, Jiaxing Liu\*, Danlei Huang, Yifan Wang, Yunyun Shi, **Kedi Chen**, Junxiao Xue, Yang Liu†, Chunlin Chen, Hairong Dong, Dingkang Yang†. In **arxiv2025** (Long)
 
 <span style="color:#1E90FF">**Old School**</span>
