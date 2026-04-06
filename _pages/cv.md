@@ -50,7 +50,10 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 <span style="color:#1E90FF">**LLM Reasoning**</span>
 
 * **A Survey of Inductive Reasoning for Large Language Models** [[arxiv](https://arxiv.org/pdf/2510.10182)] [[github](https://github.com/BDML-lab/llm-inductive-reasoning-survey)]
-  <br /> **Kedi Chen**, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang†. In **arxiv2025** (Long) 
+  <br /> **Kedi Chen**, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang†. In **ACL2026** (Long)
+
+* **Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design** [[arxiv](https://arxiv.org/abs/2603.12826)] [[github]()]
+  <br /> Xu Guo\*, Qiming Ge\*, Jian Tong, **Kedi Chen**, Jin Zhang, Xiaogui Yang, Xuan Gao, Haijun Lv, Zhihui Lv†, Yicheng Zou, Qipeng Guo†. In **ACL2026** (findings, Long)
 
 * **Code-driven Number Sequence Calculation: Enhancing the Inductive Reasoning Abilities of Large Language Models** [[arxiv](https://arxiv.org/pdf/2510.14620)] [[github](https://github.com/141forever/CodeSeq2)]
   <br /> **Kedi Chen**, Zhikai Lei, Xu Guo, Xuecheng Wu, Siyuan Zeng, Jianghao Yin, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Qipeng Guo, Kai Chen, Wei Zhang†. In **arxiv2025** (Long)
