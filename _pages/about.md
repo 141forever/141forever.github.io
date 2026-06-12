@@ -11,8 +11,8 @@ Hello, my name is Kedi Chen (陈可迪), you can call me Andy Chen. My hometown 
 
 I am now a joint Ph.D. student of East China Normal University (ECNU) and Shanghai Innovation Institute (SII), supervised by [Prof. Wei Zhang](https://weizhangltt.github.io/). I am also working closely with [Yutao Sun](https://sunyt32.github.io/) (THU).
 
-I have been studying Natural Language Processing since 2020, and I am familiar with Pretrained Language Models (PLMs) and Large Language Models (LLMs).
-My research interests include, but are not limited to **LLM Reasoning**, **LLM Backbone Training**, **Agentic LLM**, and **LLM Hallucination**.
+I have been studying Natural Language Processing since 2020.
+My research interests focus on **Model Backbone Training**, including, but not limited to **LLM Reasoning**, **LLM Distillation**, **Agentic LLM**, and **MLLM/World Models**.
 
 Welcome any Gmail contact: ckd141forever.
 
