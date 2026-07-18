@@ -43,14 +43,18 @@ redirect_from:
   * Duty: early-stage research on LLMs, expansion of the Chinese vocabulary, LLM pretraining
   * Work: the first education LLM in China: [Educhat](https://www.educhat.top/) (v1.0)
 
-<span style="color:#1E90FF">**LLM Backbone Training**</span>
+<img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/project.png" width="40" height="40"/>  Projects
+======
 
 * **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (Technique Report, contribution of chemical synthesis data, no authorship)
+  <br /> Intern Team, Shanghai AI Laboratory. Contribution of chemical synthesis data, data construction framework, and agentic chemical framework.
+
+* **InternLM3** [[github](https://github.com/InternLM/InternLM)]
+  <br /> Intern Team, Shanghai AI Laboratory. Contribution of math and code reasoning data.
 
 * **EduChat: A Large-Scale Language Model-based Chatbot System
 for Intelligent Education** [[arxiv](https://arxiv.org/pdf/2308.02773)] [[github](https://github.com/ECNU-ICALK/EduChat)]
-  <br /> **ICALK**, East China Normal University. In **arxiv2023** (Technique Report, contribution of early research, no authorship)
+  <br /> ICALK, East China Normal University. Contribution of early exploration.
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
