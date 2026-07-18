@@ -43,6 +43,15 @@ redirect_from:
   * Duty: early-stage research on LLMs, expansion of the Chinese vocabulary, LLM pretraining
   * Work: the first education LLM in China: [Educhat](https://www.educhat.top/) (v1.0)
 
+<span style="color:#1E90FF">**LLM Backbone Training**</span>
+
+* **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
+  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (Technique Report, contribution of chemical synthesis data, no authorship)
+
+* **EduChat: A Large-Scale Language Model-based Chatbot System
+for Intelligent Education** [[arxiv](https://arxiv.org/pdf/2308.02773)] [[github](https://github.com/ECNU-ICALK/EduChat)]
+  <br /> **ICALK**, East China Normal University. In **arxiv2023** (Technique Report, contribution of early research, no authorship)
+  
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
 All publications can be found on my Google Scholar page [here](https://scholar.google.com/citations?user=_kmYvFsAAAAJ&hl=zh-CN).
@@ -63,11 +72,6 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 * **Complete Chess Games Enable LLM Become A Chess Master** [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br /> Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
-
-<span style="color:#1E90FF">**LLM Backbone Training**</span>
-
-* **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> **Intern-S1 Team**, Shanghai AI Laboratory. In **arxiv2025** (Technique Report, contribution of chemical synthesis data)
 
 <span style="color:#1E90FF">**Agntic LLM**</span>
 
