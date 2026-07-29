@@ -34,7 +34,7 @@ redirect_from:
     
 * May 2024 - October 2024: **RedBook** <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/redbook.jpg" width="30" height="30"/>
   * Position: full-time business intern
-    <br /> cooperating with my friends [Yinqi Zhang](https://inchzhang.com/) and [Siyu Yan](https://scholar.google.com/citations?user=1WVip2MAAAAJ&hl=zh-CN)
+    <br /> cooperating with my friends.
   * Duty: note title generation, note title review, note content generation, research for hallucination detection
   * Work:  business-focused research in advertising algorithms
     
