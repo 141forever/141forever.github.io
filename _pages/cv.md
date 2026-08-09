@@ -77,6 +77,8 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 * **Complete Chess Games Enable LLM Become A Chess Master** [[arxiv](https://arxiv.org/pdf/2501.17186)][[github](https://github.com/Inch-Z/ChessLLM)]
   <br /> Yinqi Zhang, Xintian Han, Haolong Li, **Kedi Chen**, Shaohui Lin†. In **NAACL2025** (Short)
 
+<span style="color:#1E90FF">**LLM Distillation**</span>
+
 <span style="color:#1E90FF">**Agntic LLM**</span>
 
 <span style="color:#1E90FF">**LLM Hallucination**</span>
