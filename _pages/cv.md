@@ -79,6 +79,9 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 <span style="color:#1E90FF">**LLM Distillation**</span>
 
+* **ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation** [[arxiv](https://arxiv.org/pdf/2606.23104)][[github](https://github.com/Sophilex/KD)]
+  <br /> Chen Lin, **Kedi Chen**, Wei Zhang†. In **arxiv2026** (Long)
+
 <span style="color:#1E90FF">**Agntic LLM**</span>
 
 <span style="color:#1E90FF">**LLM Hallucination**</span>
