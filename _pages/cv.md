@@ -97,6 +97,9 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 <span style="color:#1E90FF">**LLM Applications**</span>
 
+* **MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing** [[arxiv](https://arxiv.org/pdf/2603.22289)]
+  <br /> . Runze Li, **Kedi Chen**, Guwei Feng, Mo Yu, Jun Wang†, Wei Zhang†. In **arxiv2026** (Long)
+  
 * **Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models** [[arxiv](https://arxiv.org/pdf/2508.18739?)]
   <br /> Chang Wang\*, Siyu Yan\*, Depeng Yuan, Yuqi Chen, Yanhua Huang†, Yuanhang Zheng, Shuhao Li, Yinqi Zhang, **Kedi Chen**, Mingrui Zhu, Ruiwen Xu. In **SIGIR2026 Industry Track** (Long)
 
