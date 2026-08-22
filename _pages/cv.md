@@ -57,7 +57,7 @@ redirect_from:
 * **EduChat: A Large-Scale Language Model-based Chatbot System
 for Intelligent Education** [[arxiv](https://arxiv.org/pdf/2308.02773)] [[github](https://github.com/ECNU-ICALK/EduChat)]
   <br /> ICALK, East China Normal University, 2023.
-  Contribution of early LLM backbone training exploration.
+  <br /> Contribution of early LLM backbone training exploration.
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
