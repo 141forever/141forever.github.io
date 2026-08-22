@@ -47,14 +47,17 @@ redirect_from:
 ======
 
 * **Intern-S1: A Scientific Multimodal Foundation Model** [[arxiv](https://arxiv.org/pdf/2508.15763)] [[github](https://github.com/InternLM/Intern-S1)]
-  <br /> Intern Team, Shanghai AI Laboratory. Contribution of chemical synthesis data, data construction framework, and agentic chemical framework.
+  <br /> Intern Team, Shanghai AI Laboratory, 2025.
+  <br /> Contribution of chemical synthesis data, data construction framework, and agentic chemical framework.
 
 * **InternLM3** [[github](https://github.com/InternLM/InternLM)]
-  <br /> Intern Team, Shanghai AI Laboratory. Contribution of math and code reasoning data.
+  <br /> Intern Team, Shanghai AI Laboratory, 2024.
+  <br /> Contribution of math and code reasoning data.
 
 * **EduChat: A Large-Scale Language Model-based Chatbot System
 for Intelligent Education** [[arxiv](https://arxiv.org/pdf/2308.02773)] [[github](https://github.com/ECNU-ICALK/EduChat)]
-  <br /> ICALK, East China Normal University. Contribution of early exploration.
+  <br /> ICALK, East China Normal University, 2023.
+  Contribution of early LLM backbone training exploration.
   
 <img src="https://raw.githubusercontent.com/141forever/141forever.github.io/master/images/paper.png" width="40" height="40"/>  Publications
 ======
