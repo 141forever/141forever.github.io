@@ -98,6 +98,11 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 * **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models** [[arxiv](https://arxiv.org/abs/2403.00896)] [[github](https://github.com/141forever/DiaHalu)]
   <br /> **Kedi Chen**, Qin Chen†, Jie Zhou, Yishen He, Liang He. In **EMNLP2024** (findings, Long)
 
+<span style="color:#1E90FF">**MLLM/World Model**</span>
+
+* **Vic-bench: Benchmarking visual-interleaved chain-of-thought capability in mllms with free-style intermediate state representations** [[arxiv](https://arxiv.org/pdf/2505.14404?)]
+  <br /> Xuecheng Wu\*, Jiaxing Liu\*, Danlei Huang, Yifan Wang, Yunyun Shi, **Kedi Chen**, Junxiao Xue, Yang Liu†, Chunlin Chen, Hairong Dong, Dingkang Yang†. In **arxiv2025** (Long)
+
 <span style="color:#1E90FF">**LLM Applications**</span>
 
 * **MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing** [[arxiv](https://arxiv.org/pdf/2603.22289)]
@@ -105,11 +110,6 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
   
 * **Beyond Quality: Unlocking Diversity in Ad Headline Generation with Large Language Models** [[arxiv](https://arxiv.org/pdf/2508.18739?)]
   <br /> Chang Wang\*, Siyu Yan\*, Depeng Yuan, Yuqi Chen, Yanhua Huang†, Yuanhang Zheng, Shuhao Li, Yinqi Zhang, **Kedi Chen**, Mingrui Zhu, Ruiwen Xu. In **SIGIR2026 Industry Track** (Long)
-
-<span style="color:#1E90FF">**MLLM/World Model**</span>
-
-* **Vic-bench: Benchmarking visual-interleaved chain-of-thought capability in mllms with free-style intermediate state representations** [[arxiv](https://arxiv.org/pdf/2505.14404?)]
-  <br /> Xuecheng Wu\*, Jiaxing Liu\*, Danlei Huang, Yifan Wang, Yunyun Shi, **Kedi Chen**, Junxiao Xue, Yang Liu†, Chunlin Chen, Hairong Dong, Dingkang Yang†. In **arxiv2025** (Long)
 
 <span style="color:#1E90FF">**Old School**</span>
 
