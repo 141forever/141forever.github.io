@@ -82,6 +82,9 @@ All publications can be found on my Google Scholar page [here](https://scholar.g
 
 <span style="color:#1E90FF">**LLM Distillation**</span>
 
+* **Dual-Vocabulary Language Model for Cross-Tokenizer Distillation** [[arxiv](https://arxiv.org/abs/2609.33816)][[github](https://github.com/141forever/DUAL-VOCABULARY-LANGUAGE-MODEL)]
+  <br /> **Kedi Chen**, Chen Lin, Yutao Sun, Wei Zhang†. In **arxiv2026** (Long)
+
 * **ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation** [[arxiv](https://arxiv.org/pdf/2606.23104)][[github](https://github.com/Sophilex/KD)]
   <br /> Chen Lin, **Kedi Chen**, Wei Zhang†. In **arxiv2026** (Long)
 
